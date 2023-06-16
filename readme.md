@@ -5,20 +5,3 @@
 </p>
      
 
-<p>
-<h2>
-Iniciando Python
-</h2>
-</p>
-
-<h4>
-> Aplicações Web 
-</h4>
-
-<h4>
->Desenvolvimento de Software
-</h4>
-
-<p align="center">
-<img src = "https://github.com/BiMacedo/Python/assets/112720353/13052db1-74e8-43e4-b5d5-efafb56ebb6f" "height= 450px">
-</p>
